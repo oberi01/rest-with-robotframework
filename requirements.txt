@@ -1,0 +1,4 @@
+flask~=1.1.2
+robotframework
+robotframework-requests
+requests~=2.25.1
